@@ -73,5 +73,9 @@ This edition of the RPG Portugal Gazette was born of a collaboration between:
 dreamup#1404
 Dimitri_the Role Player#8123
 
-Se és um membro activo do RPG Portugal, fluente em PT/EN e gostarias de nos ajudar a fazer uma newsletter incrível, contacta o dreamup#1404 através do Discord.
-If you are an active member of RPG Portugal, fluent in PT/EN and would like to help us make an amazing newsletter, contact dreamup#1404 through Discord. 
+Se és um membro activo do RPG Portugal, fluente em PT/EN e gostarias de nos ajudar a fazer uma newsletter incrível, contacta o dreamup#1404 através do Discord. Procuramos em especial pessoas que misturem estes talentos:
+Repórters atentos a tudo o que se passa no servidor com memória viva e capacidade de identificar os tópicos mais relevantes.
+Escritores sucintos e descontraídos capazes de empatizar com quem não percebe nada disto e capazes de se expressarem em PT + EN.
+Editores de olhar astuto capazes de passar texto pelo spellchecker, revê-lo para ficar fluído e não traduzir directamente do PT para o EN. 
+Designers capazes de criar/recolher as imagens/ilustrações mais apelativas para acompanharem o texto de cada tópico.  
+Pessoas valentes capazes de não entrar em hiper-ventilação tecnofóbica ao abrir o GitHub do RPG Portugal.  
