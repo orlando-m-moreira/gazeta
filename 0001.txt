@@ -1,5 +1,9 @@
 
+Número um!
+Olá subscritores. Obrigado pelas vossas respostas ao questionário que continuamos a incluir no final da gazeta. A nossa equipa está a crescer e a descobrir tudo que podemos fazer para aproximar quem está do lado de fora e do lado de dentro do servidor RPG Portugal. Contamos convosco para continuarem a divulgar o rpgportugal.com!
 
+Number one!
+Hello subscribers. Thank you for your answers to the questionnaire that we're still including at the end of the gazette. Our team is growing and looking to find all that we can do to bring together those that are outside and inside the RPG Portugal server. We're counting on you to continue to tell everyone about rpgportugal.com!
 ---
 
 Nesta gazeta falamos-te ...
@@ -8,6 +12,17 @@ In this gazette, we tell you all about...
 
 ---
 
+Confinamento
+
+---
+
+Mausritter
+
+---
+
+Vampire
+
+---
 
 
 ---
@@ -26,6 +41,7 @@ Este número da Gazeta RPG Portugal nasceu da colaboração entre:
 This edition of the RPG Portugal Gazette was born of a collaboration between:
 dreamup#1404
 Dimitri_the Role Player#8123
+NyOrlandhotep#367
 
 Se és um membro activo do RPG Portugal, fluente em PT/EN e gostarias de nos ajudar a fazer uma newsletter incrível, contacta o dreamup#1404 através do Discord. Procuramos em especial pessoas que misturem estes talentos:
 Repórters atentos a tudo o que se passa no servidor com memória viva e capacidade de identificar os tópicos mais relevantes.
