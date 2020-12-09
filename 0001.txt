@@ -1,8 +1,8 @@
 
-Número um!
+#1
+
 Olá subscritores. Obrigado pelas vossas respostas ao questionário que continuamos a incluir no final da gazeta. A nossa equipa está a crescer e a descobrir tudo que podemos fazer para aproximar quem está do lado de fora e do lado de dentro do servidor RPG Portugal. E contamos convosco para continuarem a divulgar o rpgportugal.com!
 
-Number one!
 Hello subscribers. Thank you for your answers to the questionnaire that we're still including at the end of the gazette. Our team is growing and looking to find all that we can do to bring together those that are outside and inside the RPG Portugal server. And we're counting on you to continue to tell everyone about rpgportugal.com!
 ---
 
@@ -14,40 +14,43 @@ In this gazette, we tell you all about what people have been playing in these ti
 
 Confinamento
 
-Quando as novas regras de confinamento entraram em vigor em Portugal no início de Novembro, observou-se  um aumento imediato de atividade no servidor de Discord do rpgportugal. O número de visitantes excedeu todos os dias os 200, chegando aos 306 no dia 15 de Novembro -  um recorde absoluto. Também se registou um aumento de jogos online: pelo menos 27 sessões ocorreram no servidor em Novembro. O jogo mais jogado terá sido Kult, Divinity Lost, embora Shadow of the Demon Lord não lhe tenha ficado muito atrás. D&D 5e, Call of Cthulhu e Vampire The Masquerade também marcaram presença, assim como outros jogos menos costumeiros: Promethean The Created,  Numenera, Night’s Black Agents, Fear Itself, Sapience, Scum & Villainy e Great American Witch.
+Quando as novas regras de confinamento entraram em vigor em Portugal no início de Novembro, observou-se  um aumento imediato de atividade no RPG Portugal. O número médio diário de visitantes excedeu todos os dias os 200, chegando aos 306 no dia 15 de Novembro -  um recorde absoluto. Também se registou um aumento de jogos online: pelo menos 27 sessões ocorreram no servidor em Novembro. O jogo mais jogado terá sido Kult, Divinity Lost, embora Shadow of the Demon Lord não lhe tenha ficado muito atrás. D&D 5e, Call of Cthulhu e Vampire The Masquerade também marcaram presença, assim como outros jogos menos costumeiros: Promethean The Created,  Numenera, Night’s Black Agents, Fear Itself, Sapience, Scum & Villainy e Great American Witch. Fantasia urbana foi de facto o género que mais sessões inspirou durante este mês passado. 
 —
-When the new rules for confinement became effective in Portugal at the beginning of November, there was an immediate increase of activity on the Discord server of rpgportugal. The number of visitors exceed 200 every day, reaching 306 on the 15th of November - an absolute record. There was also an increase of online gaming: at least 27 sessions were carried out on the server in November. The most played game was probably Kult, Divinity Lost, although Shadow of the Demon Lord was also very popular. D&D 5e, Call of Cthulhu and Vampire The Masquerade made their usual appearance, as well as less common games, such as Promethean The Created,  Numenera, Night’s Black Agents, Fear Itself, Sapience, Scum & Villainy and Great American Witch.
+When the new rules for confinement became effective in Portugal at the beginning of November, there was an immediate increase of activity in RPG Portugal. The average daily number of visitors exceed 200 every day, reaching 306 on the 15th of November - an absolute record. There was also an increase of online gaming: at least 27 sessions were carried out on the server in November. The most played game was probably Kult, Divinity Lost, although Shadow of the Demon Lord was also very popular. D&D 5e, Call of Cthulhu and Vampire The Masquerade made their usual appearance, as well as less common games, such as Promethean The Created,  Numenera, Night’s Black Agents, Fear Itself, Sapience, Scum & Villainy and Great American Witch. Urban fantasy was indeed the genre that inspired more sessions during this previous month. 
 
 ---
 
 Mausritter
 
-No início do mês de Novembro, a editora portuguesa Games Omnivorous publicou o jogo de espada e bigodes Mausritter, de Isaac Williams, com enorme sucesso. Este RPG minimalista inspirado em Into the Odd, conta as aventuras de corajosos ratinhos. Não foi só lançado no formato de um livro de elevada qualidade, como também foi disponibilizado, em versão limitada, uma belíssima e muito elogiada boxed set. Esta, para além do livro de regras, inclui ainda a aventura "Honey in the Rafters", tal como um conjunto de cartas de inventário, um bloquinho de folhas de personagem, e um escudo do mestre-jogo.
+No início do mês de Novembro, a editora portuguesa Games Omnivorous publicou o jogo de espada e bigodes Mausritter, de Isaac Williams, com enorme sucesso. Este RPG minimalista inspirado em Into the Odd, conta as aventuras de corajosos ratinhos. Não foi só lançado no formato de um livro de elevada qualidade, como também foi disponibilizado, em versão limitada, uma belíssima e muito elogiada boxed set. Esta, para além do livro de regras, inclui ainda a aventura "Honey in the Rafters", tal como um conjunto de cartas de inventário, um bloquinho de folhas de personagem, e um escudo do mestre-jogo. Um mimo para quem tiver qualquer interesse por jogos de aventuras.
 -
-The growing portuguese publisher Games Omnivorous has released, in early november, Mausritter, the swords-and-whiskers game by Isaac Williams, with huge success. This rules-light fantasy RPG, inspired in Into the Odd, is about the adventures of brave mice. It was not only released as a high-quality  book, but also, in a limited run, as a beautifully crafted boxed set which has been highly praised. Containing, besides the rules book, the adventure module "Honey in the Rafters", a GM screen, a pad of character sheets and a set of inventory cards with dry-erase marker.
+The growing Portuguese publisher Games Omnivorous has released, in early November, Mausritter, the swords-and-whiskers game by Isaac Williams, with huge success. This rules-light fantasy RPG, inspired in Into the Odd, is about the adventures of brave mice. It was not only released as a high-quality  book, but also, in a limited run, as a beautifully crafted boxed set which has been highly praised. Containing, besides the rules book, the adventure module "Honey in the Rafters", a GM screen, a pad of character sheets and a set of inventory cards with dry-erase marker. A treat for anyone with any interest in adventuring games. 
+
+Mausritter Boxed Set
+https://gamesomnivorous.com/product/minimalist-rpgs/mausritter-boxed-set/
 
 ---
 
-Vampire e World(s) of Darkness
+Vampire 
 
-Os canais dedicados a rpgs específicos têm, regra geral, pouca atividade. Foi por isso notável a quantidade de participação no #world-of-darkness em Novembro, evidenciando um interesse renovado no Vampire, The Masquerade, e talvez também noutros rpgs do(s) World(s) of Darkness. Discutiram-se os mais variados assuntos, desde as já costumeiras comparações entre edições e universos  (Vampire The Masquerade (20th anniversary), Vampire The Requiem, Vampire The Dark Ages  e Vampire The Masquerade V5), passando pela origem dos personagens Lucita e Anatole, e Tradições favoritas no Mage The Ascension. Além disso, duas novas campanhas “Portugal By Night” foram anunciadas,  bem como uma mini-campanha de Promethean, the Created. A certo ponto, algumas pessoas queixavam-se de que não podiam usar  V5 para fazer jogos de Dark Ages por falta dos clãs Ravnos e Tzimisce e, eis senão quando, surge o anúncio de que o Vampire The Masquerade Companion, a sair já em Dezembro de 2020 - e gratuito (!) na versão eletrónica - incluirá os clãs Salubri, Ravnos e Tzimisce! Vários dias de festejos se seguiram. Será que os editores da Paradox Interactive andam a ler as discussões do RPG Portugal?
+Os canais dedicados a RPGs específicos têm, regra geral, pouca atividade. Foi por isso notável o pico de participação no #world-of-darkness em Novembro, evidenciando um interesse renovado no Vampire, The Masquerade, e talvez também noutros RPGs do(s) World(s) of Darkness. Discutiram-se os mais variados assuntos, desde as já costumeiras comparações entre edições e universos  (20th anniversary, Requiem, Dark Ages  e V5), passando pela origem dos personagens Lucita e Anatole, e Tradições favoritas no Mage The Ascension. Além disso, duas novas campanhas “Portugal By Night” foram anunciadas,  bem como uma mini-campanha de Promethean, the Created. A certo ponto, algumas pessoas queixavam-se de que não podiam usar V5 para fazer jogos de Dark Ages por falta dos clãs Ravnos e Tzimisce e, eis senão quando, surge o anúncio de que o Vampire The Masquerade Companion, a sair já em Dezembro de 2020 - e gratuito (!) na versão eletrónica - incluirá os clãs Salubri, Ravnos e Tzimisce! Vários dias de festejos se seguiram. Será que a Paradox Interactive andam a ler as discussões do RPG Portugal?
 -
-Channels dedicated to specific rpgs have in general modest activity. That was why the amount of participation in # world-of-darkness in November was remarkable, showing a renewed interest in Vampire, The Masquerade, and perhaps also in other rpgs of the World (s) of Darkness. The most varied subjects were discussed, from the usual comparisons between editions and universes (Vampire The Masquerade (20th anniversary), Vampire The Requiem, Vampire The Dark Ages and Vampire The Masquerade V5), as well as the origin of the characters Lucita and Anatole, and favorite Traditions in Mage The Ascension. In addition, two new “Portugal By Night” campaigns were announced, as well as a mini-campaign of Promethean, the Created. At some point, some people complained that they could not use V5 to make Dark Ages games due to the absence of the Ravnos and Tzimisce clans and, lo and behold, the announcement arrives that the Vampire The Masquerade Companion, coming out in December 2020 - with a free (!) electronic version - will include the Salubri, Ravnos and Tzimisce clans! Several days of festivities followed. Are the editors of Paradox Interactive reading the RPG Portugal discussions?
+Channels dedicated to specific RPGs have in general modest activity. So the peak of participation in # world-of-darkness in November was remarkable, showing a renewed interest in Vampire, The Masquerade, and perhaps also in other RPGs of the World (s) of Darkness. The most varied subjects were discussed, from the usual comparisons between editions and universes (20th anniversary, Requiem, Dark Ages and V5), as well as the origin of the characters Lucita and Anatole, and favorite Traditions in Mage The Ascension. In addition, two new “Portugal By Night” campaigns were announced, as well as a mini-campaign of Promethean, the Created. At some point, some people complained that they could not use V5 to make Dark Ages games due to the absence of the Ravnos and Tzimisce clans and, lo and behold, the announcement arrives that the Vampire The Masquerade Companion, coming out in December 2020 - with a free (!) electronic version - will include the Salubri, Ravnos and Tzimisce clans! Several days of festivities followed. Is Paradox Interactive reading the RPG Portugal discussions?
 
 ---
 
 Classificados
 
-Foi criado um novo canal no servidor do RPG Portugal, de interesse geral. #classificados é uma experiência dos administradores para avaliar a utilização que tem por parte da comunidade. Serve para postar anúncios, quer estes procurem vender, trocar ou comprar um produto rpgístico. Procurar jogadores e/ou mestres de jogo para uma campanha, desde que fora do âmbito da ConCordia. Oferecer os seus dotes artísticos, entre outros. 
+Foi criado um novo canal no servidor do RPG Portugal, de interesse geral. O #classificados é uma experiência dos administradores para avaliar o uso que a comunidade lhe possa querer dar. Serve para postar anúncios, quer estes procurem vender, trocar ou comprar um produto RPGístico, procurar jogadores e/ou mestres de jogo para uma campanha, oferecer os seus dotes artísticos, entre outros. No entanto, para marcar sessões com vagas e horas específicas continuamos a usar a ficha da ConCordia.
 -
-The RPG Portugal server has now a new channel, intended for the whole community. #classificados is an experiment from the administrators to evaluate how much use it will get. It is intended for people to post advertisements, whether they are looking to sell, buy or exchange RPG products. Searching for players and/or GMs for a campaign outside of ConCordia. Offering their artistic talents, among others.
+The RPG Portugal server has now a new channel, intended for the whole community. The #classificados is an experiment from the administrators to evaluate what use the community will have for it. It is intended for people to post advertisements, whether they are looking to sell, buy or exchange RPG products, searching for players and/or GMs for a campaign, offering their artistic talents, among others. However, to schedule sessions with specific times and slots we're still using the ConCordia sheet. 
 
 ---
 
-Só mais um momento do teu tempo
-Se ainda não o fizeste, por favor responde a este pequeno questionário para nos orientar no princípio deste projecto.
-Just another moment of your time
-If you haven't done so, please answer this smal questionnaire to help guide us as we move this project forward.
+2020 - 2021
+Sendo esta a última gazeta do ano, desejamos-te tudo de bom para as festividades de dezembro. Para o ano voltamos no início de janeiro com uma retrospectiva de 2020. Se ainda não o fizeste, por favor responde a este pequeno questionário para nos orientar em 2021. Obrigado!
+
+This being the last gazette of the year, we wish you all the best for December's festivities. We'll be back next year in the beginning of January for a 2020 restrospective.  If you haven't done so, please answer this small questionnaire to help guide us in 2021. Thank you!
 
 Responder Agora | Answer Now
 https://us18.list-manage.com/survey?u=d78ac4055fb9615581176699a&id=70276b22d9
@@ -61,8 +64,6 @@ Dimitri_the Role Player#8123
 NyOrlandhotep#367
 
 Se és um membro activo do RPG Portugal, fluente em PT/EN e gostarias de nos ajudar a fazer uma newsletter incrível, contacta o dreamup#1404 através do Discord. Procuramos em especial pessoas que misturem estes talentos:
-Repórters atentos a tudo o que se passa no servidor com memória viva e capacidade de identificar os tópicos mais relevantes.
-Escritores sucintos e descontraídos capazes de empatizar com quem não percebe nada disto e capazes de se expressarem em PT + EN.
 Editores de olhar astuto capazes de passar texto pelo spellchecker, revê-lo para ficar fluído e não traduzir directamente do PT para o EN. 
 Designers capazes de criar/recolher as imagens/ilustrações mais apelativas para acompanharem o texto de cada tópico.  
 Pessoas valentes capazes de não entrar em hiper-ventilação tecnofóbica ao abrir o GitHub do RPG Portugal :) 
