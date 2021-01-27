@@ -10,9 +10,9 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
     inputs:
-        github_token:
-            description: 'GITHUB_TOKEN'
-            default: '${{ secrets.github_token }}'
+        #github_token:
+        #    description: 'GITHUB_TOKEN'
+        #    default: '${{ secrets.github_token }}'
         ### Flags for reviewdog ###
         #level:
         #    description: 'Report level for reviewdog [info,warning,error]'
