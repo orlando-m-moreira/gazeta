@@ -11,24 +11,15 @@ In this gazette, we tell you all about the, recall the more compelling topics of
 
 ---
 
-Título 1
-
-parágrafo PT
-
-—
-
-parágrafo EN
-
----
-
 Elenco de Tatters King
 
-O “Tatters of the King” é uma campanha de Call of Cthulhu, que começa na Inglaterra no Inverno de 1928. O comportamento bizarro de um paciente leva um alienista a contactar um grupo de investigadores com experiência do sobrenatural. Estes vão viajar pela Terra e por outros mundos para tentar vencer uma terrível ameaça à raça humana. Os personagens retratados são os investigadores da campanha. Melissa, a fotógrafa sofisticada, flapper e party-girl, trabalha para uma revista do incrível, emprego que já a levou a locais tenebrosos amaldiçoados.
-O Dr. Kreisler é um alienista austríaco. Abstémico e racional, aborda os fenómenos sobrenaturais com rigor científico. O seu companheiro inseparável é o gato Schubert. Natália é russa, médica e poeta. De natureza voluntariosa e impulsiva, é sua intenção combater o Mythos pelo estudo e pela expressão poética - o que a põe em mais perigo do que seria capaz de admitir. Quanto a Jake, é um jovem agente de contra-espionagem britânico. Nas poucas semanas que passou com o grupo, Jake já viu muitas coisas que puseram em questão a sua fé cristã e testaram a sua coragem até aos limites. Juntos, evitaram uma terrível ameaça. Mas o mais perigoso plano da Irmandade de Hastur ainda está em curso, e a liberdade da humanidade está longe de estar segura.
+Tatters of the King começa na Inglaterra no inverno de 1928. O comportamento bizarro de um paciente leva um alienista a contactar um grupo de investigadores, que descobrem uma terrível ameaça contra a humanidade. As ilustrações retratam os investigadores de nossa campanha de Call of Cthulhu. Melissa, a fotógrafa sofisticada, flapper e party-girl, trabalha para uma revista do incrível, trabalho que já a fez enfrentar muitos perigos sobrenaturais e perder um amigo querido.
+Dr. Kreisler é um alienista austríaco. Homem ordenado e racional, aborda os fenómenos sobrenaturais com rigor científico. O seu companheiro inseparável é Schubert, o gato. Natalia é uma médica e poetisa russa. De natureza obstinada e impulsiva, é sua intenção lutar contra o Mito de Cthulhu através do intenso estudo de livros proibidos e da expressão poética - o que a coloca em terrível perigo de enlouquecer. Quanto a Jake, é um jovem agente da contra-espionagem britânica. Como o mais novo membro do grupo, Jake viu em poucas semanas muitas coisas que desafiaram a sua fé cristã e testaram a sua coragem até ao limite. Juntos, viajaram a uma cidade no sistema solar de Aldebaran e evitaram uma terrível ameaça. Mas o plano mais perigoso da Irmandade de Hastur ainda está em andamento, e a liberdade da humanidade longe de garantida.
 
 —
 
-parágrafo EN
+"Tatters of the King" begins in England in the winter of 1928. A patient's bizarre behavior leads an alienist to contact a group of investigators, who unveil a terrible threat against mankind. The illustrations portrays the investigators of our run of this Call of Cthulhu campaign. 
+Melissa, the sophisticated photographer, flapper and party-girl, works for a magazine of the incredible, a job that has already made her face many supernatural dangers, and lose a dear friend. Dr. Kreisler is an Austrian alienist. An orderly, rational man, he approaches supernatural phenomena with scientific rigor. His inseparable companion is Schubert, the cat. Natalia is a Russian medical doctor and poet. Of a wilful and impulsive nature, it is her intention to fight the Mythos through the intense study of occult books and poetic expression - which puts her in a terrible danger of losing her mind. As for Jake, he is a young British counterintelligence agent. As the newest element of the group, Jake has seen in few weeks many things that have challenged his Christian faith and tested his courage to the limit. Together, they travelled to a city in the solar system of Aldebaran and avoided a terrible threat. But the most dangerous plan of the Brotherhood of Hastur is still underway, and humanity's freedom is far from secure.
 
 ---
 
@@ -50,8 +41,6 @@ Victoria was inspired by a book - Harcore Zen - given to her by Ricardo, and a m
 
 She is a mage of the Order of Hermes, a faction most known for being extremely tradicionalist, formal and antiquate - nothing of what Victoria is. But since magic awoke early in her ("Prodigy" merit"), she is an extremely powerful mage despite her age. This leads to frequent conflicts with her superiors, who don't want to discard her given her capabilities. Alas, all her life has been a love-hate relation with superiores - like her father (a manipulative archmage) and her mentor (who can only show affection through conflict). At her core, Victoria is pure punk - youth, rebellion, indomability and lack of self-preservation, allied with the power to literally change the world. With that in mind, it doesn't surprise anyone that this is Ana's favorite Mage character.
 
-
-
 ---
 
 Título 4
@@ -70,7 +59,7 @@ This is the setup for A Chronicle Form The Past, played in our server, that uses
 For those of you who already follow the stream, a new software is going to be introduced in a nearby future, it will connect the voices being heard with the characters speaking them.
 This is the backdrop for the ilustration that we shared earlier. This was the moment the party came together to help Diana (Tremere) to get rid of the body she feed on the night before. Don't feed and drink.
 
-
+---
 
 A malta enganou-se | Mistakes were made
 
