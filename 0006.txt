@@ -22,9 +22,9 @@ This year, April Fool's still caught some people by surprise at RPG Portugal. On
 
 ---
 
-Título 2
+Torre de Dados
 
-parágrafo PT
+Aposto quer era desesperante quando recebias uma notificação do canal do teu jogo favorito e afinal era só alguém a usar os comandos da Bota (sempre em beta) do nosso servidor. Não mais terás que temer esta situação! A pedido de muitas famílias, e utilizando a vasta capacidade técnica dos nossos Dragões (administradores), foi criado o canal #Torre-de-dados, onde podes experimentar comandos da nossa bota e todos os assuntos relativos a ela, não mais incomodando os inocentes cibernautas do RPG Portugal. Comandem longa e prosperamente.
 
 —
 
