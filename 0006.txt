@@ -28,7 +28,7 @@ Aposto que era desesperante quando recebias uma notificação do canal do teu jo
 
 —
 
-parágrafo EN
+I bet it was pretty annoying when you got a notification from your favorite channel and it turned it to be someone using it for bot (always in beta) commands. You will no longer have to suffer from this abuse! We’ve put our Dragons’ (admins) technical skills at the behest of our fellow serverites and created the channel #torre-de-dados, where you can try out the commands available to our bot, and never again shall the innocent cybernauts of RPG Portugal be bothered in such a vile fashion. Command long and prosper.
 
 ---
 
