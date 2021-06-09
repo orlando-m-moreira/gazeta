@@ -34,7 +34,7 @@ parágrafo EN
 
 Tudo e um Par de Botas
 
-Se no mês passado foi inaugurado o canal #torre-de-dados, para que houvesse um lugar específico destinado à interação indivíduo-bota, este mês a casa foi expandida para acolher um novo inquilino. De forma a fazer uso da nova funcionalidade de _slash commands_ do Discord, e abrir novas possibilidades botísticas, a ex-solteira Torre dos Dados, agora Morgul, recebeu a companhia de Orthanc. É caso para dizermos que temos tudo e um par de botas, ambas sempre em beta. Esta nova Torre de Dados tem potencial para ser desenvolvida em novas direções, sendo que para já, além do habitual dado + modificador, permite também a ordenação e/ou agrupação dos dados, e lançamentos explosivos!
+Se no mês passado inauguramos o canal #torre-de-dados, para que houvesse um lugar específico destinado à interação indivíduo-bota, este mês anexamos um novo inquilino. De forma a fazer uso da nova funcionalidade de _slash commands_ do Discord, e abrir novas possibilidades botísticas, a solitária Torre dos Dados, agora Morgul, recebeu a companhia de Orthanc. É caso para dizermos que temos tudo e um par de botas (ambas sempre em beta). Esta nova Torre de Dados tem potencial para ser desenvolvida em novas direções, a partir do valente esforço inicial do Shroomander#6115. Para já, além do habitual dado + modificador, permite também a ordenação e/ou agrupação dos dados, bem como fazer lançamentos explosivos!
 
 —
 
