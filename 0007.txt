@@ -38,7 +38,7 @@ Se no mês passado inauguramos o canal #torre-de-dados, para que houvesse um lug
 
 —
 
-Last month was the inauguration of the #torre-de-dados channel, so there could be a special place for the individual-boot interactions. This month, we have a new tenant. To make use of Discord's new slash commands function, and broaden our boot-ish possibilities, the lonely Torre dos Dados, now Morgul, has now the company of Orthanc (a hurray for the ones who got the reference). It is known that everything comes in pairs (both in beta always). With this new Torre dos Dados there is room to grow in new directions, building on top of Shroomander#6615's huge effort. For now, besides the usual dice + modifier, it also allows the ordination and/or grouping of the dice results, as well as some exploding dice!
+Last month we inaugurated the channel #torre-de-dados, so there could be a special place for the individual-boot interactions. This month, we have a new tenant. To make use of Discord's new slash commands function, and broaden our boot-ish possibilities, the lonely Torre dos Dados, now named Morgul, welcomes the company of Orthanc (a hurray for those of you who got the reference). It is known that everything comes in pairs (and that is also true for our betas). There is room to grow in new directions with this new Torre dos Dados, building on top of Shroomander#6615's huge effort. For now, besides the usual dice + modifier, it also allows sorting and/or grouping of the dice results, as well as some exploding dice!
 
 ---
 
