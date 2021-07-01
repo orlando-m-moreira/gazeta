@@ -18,7 +18,7 @@ Junho foi um mês rico em alterações na equipa de moderadores do servidor. Ap�
 
 —
 
-parágrafo EN
+June was a busy month adjusting the moderator team in the server. After much ponderation, we created the @Grifos-Mestre role, a branch of administrators focused on the technical and IT part of RPG Portugal (the rpgportugal.com website, discord server, boots, ...). For now these mythic creatures are embodied by dreamup#1404 and Shroomander#6115. Following this decision, we have decided to adopt a new Dragão-Mestre to fill our ranks, for which julesmc#1906 was elected.
 
 ---
 
